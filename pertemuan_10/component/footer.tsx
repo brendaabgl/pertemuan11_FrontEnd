@@ -1,6 +1,6 @@
 "use client";
 import { Container, Row, Col, Form, Button, InputGroup } from "react-bootstrap";
-import 'bootstrap-icons/fonts/bootstrap-icons.css';  
+import 'bootstrap-icons/font/bootstrap-icons.css';  
 export default function Footer() {
   return (
     <footer id="footer" className="pt-md-5 pb-md-2 py-3 bg-light">
