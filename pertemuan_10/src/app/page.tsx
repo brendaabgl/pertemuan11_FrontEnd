@@ -1,8 +1,5 @@
 "use client";
-
 import React from "react";
-
-// 1. Impor semua komponen dengan path yang sudah benar
 import Navbar from "../../component/navbar";
 import HeroSection from "../../component/herosection";
 import WorkSection from "../../component/worksection";

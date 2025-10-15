@@ -5,7 +5,6 @@ import { Container, Row, Col } from 'react-bootstrap'; //3.5k (gzipped: 1.6k)
 
 function WorkSection() {
   return (
-    // Menambahkan padding atas dan bawah untuk memberikan ruang
     <Container className="py-5">
       <Row className="mb-4">
         <Col md={12} className="text-center">
@@ -15,10 +14,8 @@ function WorkSection() {
       </Row>
 
       <Row>
-        {/* Kolom Pertama */}
         <Col md={4} className="mb-4 d-flex">
           <Card className="h-100 shadow-sm">
-            {/* 1. Menambahkan style untuk menyamakan tinggi gambar */}
             <Card.Img 
               variant="top" 
               src="/images/image-44.jpeg" 
