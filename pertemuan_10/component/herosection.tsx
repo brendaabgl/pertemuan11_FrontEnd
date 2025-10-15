@@ -12,12 +12,12 @@ const HeroSection = () => {
     {
       title: "First slide label",
       subtitle: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
-      imageUrl: "/images/banner_01.jpg",
+      imageUrl: "/images/banner_01.png",
     },
     {
       title: "Second slide label",
       subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      imageUrl: "/images/banner_02.jpg",
+      imageUrl: "/images/banner_02.jpeg",
     },
     {
       title: "Third slide label",

@@ -16,7 +16,7 @@ function WorkSection() {
       <Row>
         <Col md={4} className="mb-3">
           <Card>
-            <Card.Img variant="top" src="/images/image-44.jpg" />
+            <Card.Img variant="top" src="/images/image-44.jpeg" />
             <Card.Body>
               <Card.Title>Rice with wild boar liver and cutted cheese</Card.Title>
               <Card.Text>
@@ -29,7 +29,7 @@ function WorkSection() {
 
         <Col md={4} className="mb-3">
           <Card>
-            <Card.Img variant="top" src="/images/image-46.jpg" />
+            <Card.Img variant="top" src="/images/image-46.jpeg" />
             <Card.Body>
               <Card.Title>Rice with wild boar liver and cutted cheese from texas</Card.Title>
               <Card.Text>
@@ -42,7 +42,7 @@ function WorkSection() {
 
         <Col md={4} className="mb-3">
           <Card>
-            <Card.Img variant="top" src="/images/image-45.jpg" />
+            <Card.Img variant="top" src="/images/image-45.jpeg" />
             <Card.Body>
               <Card.Title>Rice with wild boar liver and cutted cheese from texas</Card.Title>
               <Card.Text>

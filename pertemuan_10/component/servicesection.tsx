@@ -17,7 +17,7 @@ function ServiceSection() {
           <p>Description of Service 2.</p>
         </Col>
         <Col md={4} className="mb-3 text-center py-3">
-          <Image src="/images/about-icon3.png" alt="Service 3" fluid />
+          <Image src="/images/about-icon3.jpeg" alt="Service 3" fluid />
           <h3>Service 3</h3>
           <p>Description of Service 3.</p>
         </Col>

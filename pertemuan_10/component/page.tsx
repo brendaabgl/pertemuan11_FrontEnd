@@ -28,7 +28,7 @@ const page = () => {
           </Col>
           <Col md={6}>
             <Image
-              src="/images/about.jpg"
+              src="/images/about.jpeg"
               alt="About Us"
               width={500}
               height={500}
